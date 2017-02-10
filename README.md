@@ -1,5 +1,7 @@
 #### Годные приложения по мнению /mobi/
 
+![текущее состояние пикчи](https://raw.githubusercontent.com/for2ch/apps_mobi/master/why.png)
+
 ## Web browsing
 
 ### Chrome
@@ -46,4 +48,4 @@ Evie. Относительно молодой лончер.
 Любителям просто приятного интерфейса.
 Стандартное состояние дровера- список.
 
-![текущее состояние пикчи](https://raw.githubusercontent.com/for2ch/apps_mobi/master/why.png)
+
