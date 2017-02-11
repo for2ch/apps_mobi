@@ -1,6 +1,6 @@
 #### Годные приложения по мнению /mobi/
 
-![текущее состояние пикчи](https://raw.githubusercontent.com/for2ch/apps_mobi/master/why.png)
+![текущее состояние пикчи](https://raw.githubusercontent.com/for2ch/apps_mobi/master/why_1.png)
 
 ## Web browsing
 
